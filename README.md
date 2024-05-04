@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akajhon</h1>
-<h3 align="center">Cybersecurity Analyst and Passionate Infosec Advocate</h3>
-<p align="center">With some years of experience in the field, I specialize in threat intelligence, ICS protection, and cybersecurity solutions that safeguard organizational assets.</p>
+<h2 align="center">🛡️ Cybersecurity Analyst and Passionate Infosec Advocate 🛡️</h2>
+
+🔒 With some years of experience in the field, I specialize in threat intelligence, ICS protection, and cybersecurity solutions that safeguard organizational assets.
 
 - 🔭 I’m currently working on: [T-Systems do Brasil](t-systems.com.br)
 
