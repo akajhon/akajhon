@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **joaopedrorosa03@gmail.com**
 
-- 📄 Know about my experiences: [www.linkedin.com/in/joãopedro-rosacezarino/](https://www.linkedin.com/in/jo%C3%A3opedro-rosacezarino/)
+- 📄 Know about my experiences: [www.linkedin.com/in/joaocezarino](www.linkedin.com/in/joaocezarino)
 
 - ⚡ Fun fact: **I'm a LifeLong Learner!**
 
