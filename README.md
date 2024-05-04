@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Akajhon</h1>
-<h3 align="center">Estudante de Ciências da Computação na FEI. Engajado em Cybersegurança e Segurança da informação.</h3>
+<h3 align="center">Cybersecurity Analyst and Passionate Infosec Advocate</h3>
+<p align="center">With some years of experience in the field, I specialize in threat intelligence, ICS protection, and cybersecurity solutions that safeguard organizational assets.</p>
 
 - 🔭 I’m currently working on: [T-Systems do Brasil](t-systems.com.br)
 
-- 🌱 I’m currently learning: **Cybersecurity; InfoSec; Python; C; Linux**
-
 - 👨‍💻 All of my projects are available at: [github.com/akajhon](github.com/akajhon)
 
-- 💬 Ask me about: **Cybersecurity; InfoSec; Linux**
+- 💬 Ask me about: **Cybersecurity; InfoSec; Linux; ICS/OT Security; Threat Intelligence**
 
 - 📫 How to reach me: **joaopedrorosa03@gmail.com**
 
